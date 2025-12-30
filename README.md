@@ -16,7 +16,7 @@
         - Development Environment: XAMPP  
 
      2️⃣ User Roles & Functionality 
-               Farmer (Seller)
+              Farmer (Seller)
         - Registers and creates a profile.  
         - Selects product type: Organic / Non-organic  
         - Organic farmers must upload NPOP certificate.  
@@ -35,20 +35,21 @@
         - Approves farmer accounts for platform access.  
         - Uploads educational videos (embedded from YouTube).  
         - Monitors transactions, complaints, and overall platform activity.  
-        - Manages users, products, and orders from a centralized dashboard.  
+        - Manages users, products, and orders from a centralized dashboard.         
                         
         
 8. Database Setup
-          1. Open phpMyAdmin.
-          2. Create a new database named `Krushitsetu`.
-          3. Import the file `Krushitsetu.sql` into the database.
+    1. Open phpMyAdmin.
+    2. Create a new database named `Krushitsetu`.
+    3. Import the file `Krushitsetu.sql` into the database.
+
 
 9. Team Member information:
-          Team Leader: Amee Patel [24BEIT30088]  [IT, LDRP-ITR, KSV]
-          Co-Team Leader: Dharmi Patel [24BEIT30101]  [IT, LDRP-ITR, KSV]
-          Team Member: Diya Patel [24BEIT30108]  [IT, LDRP-ITR, KSV]
-          Team Member: Jeni Raiyani [24BEIT30171]  [IT, LDRP-ITR, KSV]
-          Guide: Dr. Sneha Padhiyar  [IT, LDRP-ITR, KSV]
+    1.Team Leader: Amee Patel [24BEIT30088]  [IT, LDRP-ITR, KSV]
+    2.Co-Team Leader: Dharmi Patel [24BEIT30101]  [IT, LDRP-ITR, KSV]
+    3.Team Member: Diya Patel [24BEIT30108]  [IT, LDRP-ITR, KSV]
+    4.Team Member: Jeni Raiyani [24BEIT30171]  [IT, LDRP-ITR, KSV]
+    5.Guide: Dr. Sneha Padhiyar  [IT, LDRP-ITR, KSV]
                 
                
 
