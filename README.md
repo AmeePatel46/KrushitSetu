@@ -16,7 +16,7 @@
         - Development Environment: XAMPP  
 
      2️⃣ User Roles & Functionality 
-              Farmer (Seller)
+        1. Farmer (Seller)
         - Registers and creates a profile.  
         - Selects product type: Organic / Non-organic  
         - Organic farmers must upload NPOP certificate.  
@@ -24,13 +24,13 @@
         - Provides door-to-door delivery.  
         - Manages orders and updates order status (Packed, Shipped, Delivered).  
         - Receives complaints and feedback from buyers.
-               Buyer (Customer)
+        2. Buyer (Customer)
         - Browses products filtered by nearby location.  
         - Can filter to view certified organic products only.  
         - Adds products to cart and places orders.  
         - Tracks order status: Placed → Packed → Shipped → Delivered.  
         - Can provide feedback or report complaints.
-               Admin
+        3. Admin
         - Reviews and verifies farmer's NPOP certificates.  
         - Approves farmer accounts for platform access.  
         - Uploads educational videos (embedded from YouTube).  
