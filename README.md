@@ -45,11 +45,11 @@
 
 
 9. Team Member information:
-    1.Team Leader: Amee Patel [24BEIT30088]  [IT, LDRP-ITR, KSV]
-    2.Co-Team Leader: Dharmi Patel [24BEIT30101]  [IT, LDRP-ITR, KSV]
-    3.Team Member: Diya Patel [24BEIT30108]  [IT, LDRP-ITR, KSV]
-    4.Team Member: Jeni Raiyani [24BEIT30171]  [IT, LDRP-ITR, KSV]
-    5.Guide: Dr. Sneha Padhiyar  [IT, LDRP-ITR, KSV]
+   1.Team Leader: Amee Patel [24BEIT30088]  [IT, LDRP-ITR, KSV]
+   2.Co-Team Leader: Dharmi Patel [24BEIT30101]  [IT, LDRP-ITR, KSV]
+   3.Team Member: Diya Patel [24BEIT30108]  [IT, LDRP-ITR, KSV]
+   4.Team Member: Jeni Raiyani [24BEIT30171]  [IT, LDRP-ITR, KSV]
+   5.Guide: Dr. Sneha Padhiyar  [IT, LDRP-ITR, KSV]
                 
                
 
